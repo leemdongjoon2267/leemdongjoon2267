@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![임동준's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemdongjoon2267&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top 임동준](https://github-readme-stats.vercel.app/api/top-langs/?username=leemdongjoon2267&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
